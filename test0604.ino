@@ -1,4 +1,4 @@
-//20210604 測試版本可控制可以顯示電量 原版本為modified0412withbatter.ino
+//20210604 測試版本可控制可以顯示電量 原版本為modified0412withbattery.ino
 #include "ros.h"
 #include <std_msgs/String.h>
 #include <geometry_msgs/Twist.h>
